@@ -1,0 +1,8 @@
+br\com\alura\loja\test\TestaPoolConexoes.class
+br\com\alura\loja\test\TestaListagem.class
+br\com\alura\loja\test\TestaInsercaoComParametro.class
+br\com\alura\loja\test\ConnectionFactory.class
+br\com\alura\loja\test\TestaInsercao.class
+br\com\alura\loja\test\TestaRemocao.class
+br\com\alura\loja\modelo\Produto.class
+br\com\alura\loja\test\TestaInsecaoComProduto.class
